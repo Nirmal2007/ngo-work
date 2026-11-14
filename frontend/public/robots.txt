@@ -1,0 +1,6 @@
+# Robots.txt for nammapathugaputhozhi.com
+User-agent: *
+Allow: /
+
+Sitemap: https://nammapathugaputhozhi.com/sitemap.xml
+

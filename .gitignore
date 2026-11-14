@@ -1,0 +1,44 @@
+
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+*.properties
+
+# Java / Spring Boot
+**/target/
+**/*.jar
+**/*.war
+**/logs/
+*.log
+
+# Frontend dependencies and build output
+node_modules/
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Oracle Cloud keys and deployment credentials
+Oracle Keys/
+*.key
+*.pem
+
+# Member photographs
+**/images/team/
+**/team/*.jpg
+**/team/*.jpeg
+**/team/*.png
+**/team/*.webp
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.backup

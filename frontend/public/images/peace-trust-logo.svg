@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- Peace Trust Emblem -->
+  <g transform="translate(10, 10)">
+    <circle cx="30" cy="30" r="28" fill="#C2185B" />
+    <circle cx="30" cy="30" r="25" stroke="#FFD166" stroke-width="2" />
+    <!-- Dove of Peace -->
+    <path d="M22 36C20 34 18 30 20 26C22 22 26 21 30 22C33 19 38 18 42 20C40 23 38 25 38 28C42 29 45 32 44 35C43 38 39 39 36 38C34 41 30 43 26 42C23 41 22 38 22 36Z" fill="#FFF8FA" />
+    <path d="M38 21C39 19 42 18 44 19C42 20 40 21 38 21Z" fill="#FFD166" />
+    <circle cx="34" cy="24" r="1.5" fill="#C2185B" />
+  </g>
+  <!-- Organization Text -->
+  <text x="80" y="34" font-family="'Inter', sans-serif" font-weight="800" font-size="20" fill="#C2185B" letter-spacing="1.2">PEACE TRUST</text>
+  <text x="80" y="52" font-family="'Noto Sans Tamil', sans-serif" font-weight="600" font-size="13" fill="#E85D91">அமைதி அறக்கட்டளை • திண்டுக்கல்</text>
+  <text x="80" y="67" font-family="'Inter', sans-serif" font-weight="500" font-size="10.5" fill="#4A626C" letter-spacing="0.5">ESTD. DINDIGUL, TAMIL NADU</text>
+</svg>
+

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 84" fill="none">
+  <!-- Brand Icon -->
+  <g transform="translate(6, 6)">
+    <rect width="72" height="72" rx="20" fill="#C2185B"/>
+    <!-- Outer accent ring -->
+    <rect x="3" y="3" width="66" height="66" rx="17" stroke="#FFD166" stroke-width="2" opacity="0.8"/>
+    <!-- Caring hands & silhouette -->
+    <circle cx="36" cy="27" r="9" fill="#FFD166"/>
+    <path d="M22 54C22 45 28 39 36 39C44 39 50 45 50 54H22Z" fill="#FFF8FA"/>
+    <path d="M27 45C27 45 32 40 36 43C40 46 45 42 45 42C45 48 40 52 36 52C32 52 27 48 27 45Z" fill="#E85D91"/>
+    <!-- Heart accent -->
+    <path d="M47 22C47 20 49 18 51 18C52.5 18 53.5 19 54 20C54.5 19 55.5 18 57 18C59 18 61 20 61 22C61 25 57 28 54 30C51 28 47 25 47 22Z" fill="#FFD166"/>
+  </g>
+  <!-- Typography -->
+  <text x="90" y="36" font-family="'Noto Sans Tamil', 'Inter', sans-serif" font-weight="800" font-size="20" fill="#C2185B">நம்ம பாதுகாப்புத் தோழி</text>
+  <text x="90" y="56" font-family="'Inter', sans-serif" font-weight="700" font-size="13" fill="#E85D91" letter-spacing="0.5">PAADHUKAAPPU THOZHI</text>
+  <text x="90" y="72" font-family="'Noto Sans Tamil', sans-serif" font-weight="500" font-size="10.5" fill="#4A626C">ஒவ்வொரு பெண்ணுக்கும் ஒரு நம்பிக்கையான தோழி</text>
+</svg>
+

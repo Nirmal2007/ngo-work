@@ -1,0 +1,31 @@
+{
+  "name": "நம்ம பாதுகாப்புத் தோழி - Peace Trust",
+  "short_name": "பாதுகாப்புத் தோழி",
+  "description": "பெண்களின் பாதுகாப்பு... நமது பொறுப்பு! Peace Trust Women's Safety Initiative.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8FA",
+  "theme_color": "#C2185B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
