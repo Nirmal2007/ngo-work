@@ -128,20 +128,6 @@ The gallery is data-driven and requires no code changes to component logic.
 
 ---
 
-## 7. Organization Centres
-
-### 1. PEACE TRUST HEADQUARTERS
-Near Police Housing Colony, Trichy Road, Dindigul – 624005, Tamil Nadu, India.  
-- **Phone**: +91 451-2410021, +91 8667265272  
-- **Email**: chairman@peacetrust.in, info@peacetrust.in  
-- **Helpline**: +91 9042580158  
-
-### 2. PEACE COLLEGE OF EDUCATION
-Vittalanayakanpatti, Karur Road, NH-7, Sukkampatti Post, Dindigul – 624709, Tamil Nadu, India.  
-- **Phone**: +91 451-2410021  
-
----
-
 ## 8. License & Privacy
 © 2026 PEACE TRUST, Dindigul. All Rights Reserved.  
 Dedicated to women's safety, constitutional equality, and community dignity.
